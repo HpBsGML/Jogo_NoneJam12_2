@@ -1,0 +1,1 @@
+global.mus = 0

@@ -1,0 +1,1 @@
+draw_text_colour(625,85,string(vida)+ "/" + string(max_vida),c_yellow,c_yellow,c_yellow,c_yellow,1)

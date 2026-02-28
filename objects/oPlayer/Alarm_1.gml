@@ -1,0 +1,1 @@
+global.picareta = 0

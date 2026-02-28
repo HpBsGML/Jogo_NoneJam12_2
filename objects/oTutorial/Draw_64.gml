@@ -1,0 +1,1 @@
+draw_text(185,700,"Toque para prosseguir, ESC para voltar")

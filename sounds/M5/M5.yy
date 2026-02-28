@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"M5",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":91.24571,
+  "exportDir":"",
+  "name":"M5",
+  "parent":{
+    "name":"Musica",
+    "path":"folders/Musica.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"M5.mp3",
+  "volume":1.0,
+}

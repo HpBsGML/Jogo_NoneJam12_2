@@ -1,0 +1,2 @@
+draw_text_transformed_colour(x,y,"Abates: " + string(global.Pkills),4,4,0,c_yellow,c_yellow,c_yellow,c_yellow,1)
+draw_text_transformed_colour(x,y + 80,"Onda: " + string(global.Wave),4,4,0,c_yellow,c_yellow,c_yellow,c_yellow,1)

@@ -1,0 +1,1 @@
+draw_text_transformed_colour(x + 80,y + 15,string(global.dinheiro) + ",00",1.7,1.7,0,c_yellow,c_yellow,c_yellow,c_yellow,1)

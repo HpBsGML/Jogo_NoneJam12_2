@@ -1,0 +1,2 @@
+instance_destroy(id)
+audio_stop_sound(sfxLaserLoop)

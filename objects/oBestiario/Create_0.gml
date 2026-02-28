@@ -1,0 +1,1 @@
+global.bestiario = 1

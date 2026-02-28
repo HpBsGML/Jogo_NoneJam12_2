@@ -1,0 +1,1 @@
+draw_text_colour(x - 35,y -95,"O Necromante:", c_yellow,c_yellow,c_yellow,c_yellow,1)

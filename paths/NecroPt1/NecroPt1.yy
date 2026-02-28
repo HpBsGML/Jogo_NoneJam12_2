@@ -1,0 +1,25 @@
+{
+  "$GMPath":"",
+  "%Name":"NecroPt1",
+  "closed":false,
+  "kind":0,
+  "name":"NecroPt1",
+  "parent":{
+    "name":"Necromante",
+    "path":"folders/Inimigos/Necromante.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":736.0,"y":128.0,},
+    {"speed":100.0,"x":736.0,"y":128.0,},
+    {"speed":100.0,"x":160.0,"y":160.0,},
+    {"speed":100.0,"x":128.0,"y":480.0,},
+    {"speed":100.0,"x":128.0,"y":640.0,},
+    {"speed":100.0,"x":768.0,"y":640.0,},
+    {"speed":100.0,"x":1248.0,"y":608.0,},
+    {"speed":100.0,"x":1248.0,"y":128.0,},
+    {"speed":100.0,"x":736.0,"y":128.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}

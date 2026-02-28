@@ -1,0 +1,1 @@
+global.manual = 1
